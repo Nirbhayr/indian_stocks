@@ -25,8 +25,8 @@ Requirements
     numpy
     Matplotlib
     Seaborn
-    
+
 
 # Acknowledgments
 
-Data is collected from the yahoo finance website. For example: https://finance.yahoo.com/quote/HDFCBANK.NS/history?p=HDFCBANK.NS 
+Data is collected from the yahoo finance website. For example: https://finance.yahoo.com/quote/HDFCBANK.NS/history?p=HDFCBANK.NS
