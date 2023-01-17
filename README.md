@@ -20,7 +20,7 @@ The data is organized into individual CSV files for each stock, with the file na
 # EDA
 
 The EDA files are Jupyter Notebook files that demonstrate how to plot and analyze the stock data using Python libraries such as Pandas and Matplotlib.
-Requirements
+
 
     Python 3.x
     Pandas
