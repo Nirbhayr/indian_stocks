@@ -3,7 +3,9 @@
 
 The repository also includes basic EDA (exploratory data analysis) files that demonstrate how to plot and analyze the data. These files can be used as a starting point for further analysis and research.
 
-<h1 style="color:orange">Data</h1>
+# Data
+
+The data is from NSE and is indicated by the `.ns` post-fix in the name of each csv file. Stock data is from the date the stock was listed on NSE. For some stocks which are only listed on BSE, the filename has a `.bo` post-fix.
 
 The data is organized into individual CSV files for each stock, with the file name indicating the stock ticker. Each file contains the following columns:
 
